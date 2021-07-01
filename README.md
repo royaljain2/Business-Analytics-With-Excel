@@ -23,12 +23,12 @@ Domain:  E-Commerce
 Analysis Tasks
 
      
-     Prepare a table of Sales and Profit month-wise     
-     Prepare the sales table region-wise in the working sheet  Product Category.
+     Prepared a table of Sales and Profit month-wise     
+     Prepared the sales table region-wise in the sheet.
      Use of GETPIVOTDATA function to get total profit and sales of a specific Product category
-     Create a slicer for the Product Category.
-     Create a Column Chart of a month-wise table and region-wise table
-     Create a dashboard.
+     Created a slicer for the Product Category.
+     Created a Column Chart of a month-wise table and region-wise table
+     Created a dashboard.
 
      
     
